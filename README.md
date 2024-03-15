@@ -1,4 +1,4 @@
-# ascending-line
+# fence
 
 > A rising line implemented using Threejs 预览地址：https://xiaxiangfeng.github.io/threejs-flowing-fence/index.html
 
