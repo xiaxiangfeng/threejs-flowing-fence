@@ -1,6 +1,6 @@
 # fence
 
-> A rising line implemented using Threejs 预览地址：https://xiaxiangfeng.github.io/threejs-flowing-fence/index.html
+> A fence using Threejs 预览地址：https://xiaxiangfeng.github.io/threejs-flowing-fence/index.html
 
 ## 微信交流群
 
